@@ -27,6 +27,8 @@
   </tr>
 </table>
 
+> **Para ser claro:** es un prototipo personal y no oficial, inspirado en un restaurante de Ushuaia. No está vinculado al restaurante, nunca lo ofrecí ni lo vendí, y lo marcado como DEMO es de prueba.
+
 ## La idea
 
 Ushuaia recibe turistas de todo el mundo, y un restaurante ahí necesita algo más que una página linda: que alguien de Corea o de Alemania pueda leer la carta en su idioma, reservar sin llamar por teléfono y pedir desde la mesa sin esperar al mozo para cada cosa. Quise juntar todo eso en una plataforma que el personal también pueda manejar en tiempo real.
@@ -66,7 +68,7 @@ flowchart LR
 
 ## ¿Y el código?
 
-El repositorio es privado porque es un proyecto para un cliente. Lo muestro con gusto en una entrevista.
+El repositorio es privado porque el proyecto sigue en desarrollo. Lo muestro con gusto en una entrevista.
 
 ---
 
